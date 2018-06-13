@@ -1,0 +1,1069 @@
+DTE,BARRI,AEB,SC,NOM_BARRI
+1.0,1.0,1.0,1.0, el Raval
+1.0,1.0,1.0,2.0, el Raval
+1.0,1.0,2.0,3.0, el Raval
+1.0,1.0,2.0,4.0, el Raval
+1.0,1.0,3.0,5.0, el Raval
+1.0,1.0,3.0,6.0, el Raval
+1.0,1.0,3.0,7.0, el Raval
+1.0,1.0,4.0,8.0, el Raval
+1.0,1.0,4.0,9.0, el Raval
+1.0,1.0,4.0,10.0, el Raval
+1.0,1.0,5.0,11.0, el Raval
+1.0,1.0,5.0,12.0, el Raval
+1.0,1.0,5.0,13.0, el Raval
+1.0,1.0,6.0,14.0, el Raval
+1.0,1.0,6.0,15.0, el Raval
+1.0,1.0,6.0,16.0, el Raval
+1.0,1.0,6.0,17.0, el Raval
+1.0,1.0,7.0,18.0, el Raval
+1.0,1.0,7.0,19.0, el Raval
+1.0,1.0,7.0,20.0, el Raval
+1.0,1.0,8.0,21.0, el Raval
+1.0,2.0,9.0,22.0, el Barri Gòtic
+1.0,2.0,9.0,23.0, el Barri Gòtic
+1.0,2.0,10.0,25.0, el Barri Gòtic
+1.0,2.0,10.0,26.0, el Barri Gòtic
+1.0,2.0,10.0,27.0, el Barri Gòtic
+1.0,2.0,11.0,28.0, el Barri Gòtic
+1.0,2.0,11.0,29.0, el Barri Gòtic
+1.0,2.0,12.0,30.0, el Barri Gòtic
+1.0,2.0,12.0,31.0, el Barri Gòtic
+1.0,3.0,13.0,32.0, la Barceloneta
+1.0,3.0,13.0,33.0, la Barceloneta
+1.0,3.0,13.0,34.0, la Barceloneta
+1.0,3.0,14.0,35.0, la Barceloneta
+1.0,3.0,14.0,36.0, la Barceloneta
+1.0,3.0,15.0,37.0, la Barceloneta
+1.0,3.0,15.0,38.0, la Barceloneta
+1.0,3.0,15.0,39.0, la Barceloneta
+1.0,3.0,15.0,40.0, la Barceloneta
+1.0,3.0,15.0,41.0, la Barceloneta
+1.0,3.0,15.0,42.0, la Barceloneta
+1.0,4.0,16.0,43.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,16.0,44.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,16.0,45.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,16.0,46.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,17.0,47.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,17.0,48.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,17.0,49.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,18.0,50.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,18.0,51.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,18.0,52.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,19.0,53.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,19.0,54.0," Sant Pere, Santa Caterina i la Ribera"
+1.0,4.0,19.0,55.0," Sant Pere, Santa Caterina i la Ribera"
+2.0,5.0,20.0,1.0, el Fort Pienc
+2.0,5.0,20.0,2.0, el Fort Pienc
+2.0,5.0,20.0,3.0, el Fort Pienc
+2.0,5.0,20.0,4.0, el Fort Pienc
+2.0,5.0,20.0,5.0, el Fort Pienc
+2.0,5.0,20.0,6.0, el Fort Pienc
+2.0,5.0,20.0,7.0, el Fort Pienc
+2.0,5.0,20.0,8.0, el Fort Pienc
+2.0,5.0,20.0,9.0, el Fort Pienc
+2.0,5.0,21.0,10.0, el Fort Pienc
+2.0,5.0,21.0,11.0, el Fort Pienc
+2.0,5.0,21.0,12.0, el Fort Pienc
+2.0,5.0,21.0,13.0, el Fort Pienc
+2.0,5.0,22.0,14.0, el Fort Pienc
+2.0,5.0,22.0,15.0, el Fort Pienc
+2.0,5.0,22.0,16.0, el Fort Pienc
+2.0,5.0,22.0,17.0, el Fort Pienc
+2.0,5.0,22.0,18.0, el Fort Pienc
+2.0,5.0,22.0,19.0, el Fort Pienc
+2.0,5.0,22.0,20.0, el Fort Pienc
+2.0,6.0,23.0,21.0, la Sagrada Família
+2.0,6.0,23.0,22.0, la Sagrada Família
+2.0,6.0,23.0,23.0, la Sagrada Família
+2.0,6.0,23.0,24.0, la Sagrada Família
+2.0,6.0,24.0,25.0, la Sagrada Família
+2.0,6.0,24.0,26.0, la Sagrada Família
+2.0,6.0,24.0,27.0, la Sagrada Família
+2.0,6.0,24.0,28.0, la Sagrada Família
+2.0,6.0,24.0,29.0, la Sagrada Família
+2.0,6.0,24.0,30.0, la Sagrada Família
+2.0,6.0,24.0,31.0, la Sagrada Família
+2.0,6.0,24.0,32.0, la Sagrada Família
+2.0,6.0,25.0,33.0, la Sagrada Família
+2.0,6.0,25.0,34.0, la Sagrada Família
+2.0,6.0,25.0,35.0, la Sagrada Família
+2.0,6.0,25.0,36.0, la Sagrada Família
+2.0,6.0,25.0,37.0, la Sagrada Família
+2.0,6.0,25.0,38.0, la Sagrada Família
+2.0,6.0,25.0,39.0, la Sagrada Família
+2.0,6.0,25.0,40.0, la Sagrada Família
+2.0,6.0,26.0,41.0, la Sagrada Família
+2.0,6.0,26.0,42.0, la Sagrada Família
+2.0,6.0,26.0,43.0, la Sagrada Família
+2.0,6.0,26.0,44.0, la Sagrada Família
+2.0,6.0,26.0,45.0, la Sagrada Família
+2.0,6.0,26.0,46.0, la Sagrada Família
+2.0,6.0,26.0,47.0, la Sagrada Família
+2.0,6.0,26.0,48.0, la Sagrada Família
+2.0,6.0,27.0,49.0, la Sagrada Família
+2.0,6.0,27.0,50.0, la Sagrada Família
+2.0,6.0,27.0,51.0, la Sagrada Família
+2.0,6.0,27.0,52.0, la Sagrada Família
+2.0,6.0,27.0,53.0, la Sagrada Família
+2.0,6.0,27.0,54.0, la Sagrada Família
+2.0,7.0,28.0,55.0, la Dreta de l'Eixample
+2.0,7.0,28.0,56.0, la Dreta de l'Eixample
+2.0,7.0,28.0,57.0, la Dreta de l'Eixample
+2.0,7.0,28.0,58.0, la Dreta de l'Eixample
+2.0,7.0,28.0,59.0, la Dreta de l'Eixample
+2.0,7.0,28.0,60.0, la Dreta de l'Eixample
+2.0,7.0,29.0,61.0, la Dreta de l'Eixample
+2.0,7.0,29.0,62.0, la Dreta de l'Eixample
+2.0,7.0,29.0,63.0, la Dreta de l'Eixample
+2.0,7.0,29.0,64.0, la Dreta de l'Eixample
+2.0,7.0,29.0,65.0, la Dreta de l'Eixample
+2.0,7.0,30.0,66.0, la Dreta de l'Eixample
+2.0,7.0,30.0,67.0, la Dreta de l'Eixample
+2.0,7.0,30.0,68.0, la Dreta de l'Eixample
+2.0,7.0,30.0,69.0, la Dreta de l'Eixample
+2.0,7.0,31.0,70.0, la Dreta de l'Eixample
+2.0,7.0,31.0,71.0, la Dreta de l'Eixample
+2.0,7.0,31.0,72.0, la Dreta de l'Eixample
+2.0,7.0,32.0,73.0, la Dreta de l'Eixample
+2.0,7.0,32.0,74.0, la Dreta de l'Eixample
+2.0,7.0,32.0,75.0, la Dreta de l'Eixample
+2.0,7.0,32.0,76.0, la Dreta de l'Eixample
+2.0,7.0,33.0,77.0, la Dreta de l'Eixample
+2.0,7.0,34.0,78.0, la Dreta de l'Eixample
+2.0,7.0,34.0,79.0, la Dreta de l'Eixample
+2.0,7.0,35.0,80.0, la Dreta de l'Eixample
+2.0,7.0,35.0,81.0, la Dreta de l'Eixample
+2.0,7.0,36.0,82.0, la Dreta de l'Eixample
+2.0,7.0,36.0,83.0, la Dreta de l'Eixample
+2.0,8.0,37.0,84.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,37.0,85.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,37.0,86.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,37.0,87.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,38.0,88.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,38.0,89.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,38.0,90.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,39.0,91.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,39.0,92.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,40.0,93.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,40.0,94.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,40.0,95.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,40.0,96.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,40.0,97.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,41.0,98.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,41.0,99.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,41.0,100.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,41.0,101.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,42.0,102.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,42.0,103.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,42.0,104.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,42.0,105.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,43.0,106.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,43.0,107.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,43.0,108.0, l'Antiga Esquerra de l'Eixample
+2.0,8.0,43.0,109.0, l'Antiga Esquerra de l'Eixample
+2.0,9.0,44.0,110.0, la Nova Esquerra de l'Eixample
+2.0,9.0,44.0,111.0, la Nova Esquerra de l'Eixample
+2.0,9.0,44.0,112.0, la Nova Esquerra de l'Eixample
+2.0,9.0,44.0,113.0, la Nova Esquerra de l'Eixample
+2.0,9.0,44.0,114.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,115.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,116.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,117.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,118.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,119.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,120.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,121.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,122.0, la Nova Esquerra de l'Eixample
+2.0,9.0,45.0,123.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,124.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,125.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,126.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,127.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,128.0, la Nova Esquerra de l'Eixample
+2.0,9.0,46.0,129.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,130.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,131.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,132.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,133.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,134.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,135.0, la Nova Esquerra de l'Eixample
+2.0,9.0,47.0,136.0, la Nova Esquerra de l'Eixample
+2.0,9.0,48.0,137.0, la Nova Esquerra de l'Eixample
+2.0,9.0,48.0,138.0, la Nova Esquerra de l'Eixample
+2.0,9.0,48.0,139.0, la Nova Esquerra de l'Eixample
+2.0,9.0,48.0,140.0, la Nova Esquerra de l'Eixample
+2.0,9.0,48.0,141.0, la Nova Esquerra de l'Eixample
+2.0,9.0,49.0,142.0, la Nova Esquerra de l'Eixample
+2.0,9.0,49.0,143.0, la Nova Esquerra de l'Eixample
+2.0,9.0,49.0,144.0, la Nova Esquerra de l'Eixample
+2.0,9.0,49.0,145.0, la Nova Esquerra de l'Eixample
+2.0,9.0,50.0,146.0, la Nova Esquerra de l'Eixample
+2.0,9.0,50.0,147.0, la Nova Esquerra de l'Eixample
+2.0,9.0,50.0,148.0, la Nova Esquerra de l'Eixample
+2.0,9.0,50.0,149.0, la Nova Esquerra de l'Eixample
+2.0,10.0,51.0,150.0, Sant Antoni
+2.0,10.0,51.0,151.0, Sant Antoni
+2.0,10.0,51.0,152.0, Sant Antoni
+2.0,10.0,51.0,153.0, Sant Antoni
+2.0,10.0,51.0,154.0, Sant Antoni
+2.0,10.0,51.0,155.0, Sant Antoni
+2.0,10.0,51.0,156.0, Sant Antoni
+2.0,10.0,51.0,157.0, Sant Antoni
+2.0,10.0,52.0,158.0, Sant Antoni
+2.0,10.0,52.0,159.0, Sant Antoni
+2.0,10.0,52.0,160.0, Sant Antoni
+2.0,10.0,52.0,161.0, Sant Antoni
+2.0,10.0,52.0,162.0, Sant Antoni
+2.0,10.0,53.0,163.0, Sant Antoni
+2.0,10.0,53.0,164.0, Sant Antoni
+2.0,10.0,53.0,165.0, Sant Antoni
+2.0,10.0,54.0,166.0, Sant Antoni
+2.0,10.0,54.0,167.0, Sant Antoni
+2.0,10.0,54.0,168.0, Sant Antoni
+2.0,10.0,55.0,169.0, Sant Antoni
+2.0,10.0,55.0,170.0, Sant Antoni
+2.0,10.0,55.0,171.0, Sant Antoni
+2.0,10.0,55.0,172.0, Sant Antoni
+2.0,10.0,55.0,173.0, Sant Antoni
+3.0,11.0,56.0,1.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,2.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,3.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,4.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,5.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,6.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,7.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,8.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,56.0,9.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,10.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,11.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,12.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,13.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,14.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,15.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,16.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,57.0,17.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,58.0,18.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,58.0,19.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,58.0,20.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,58.0,21.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,58.0,22.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,59.0,23.0, el Poble Sec - AEI Parc Montjuïc
+3.0,11.0,59.0,24.0, el Poble Sec - AEI Parc Montjuïc
+3.0,12.0,60.0,25.0, la Marina del Prat Vermell - AEI Zona Franca
+3.0,13.0,61.0,26.0, la Marina de Port
+3.0,13.0,61.0,27.0, la Marina de Port
+3.0,13.0,61.0,28.0, la Marina de Port
+3.0,13.0,61.0,29.0, la Marina de Port
+3.0,13.0,61.0,30.0, la Marina de Port
+3.0,13.0,62.0,31.0, la Marina de Port
+3.0,13.0,62.0,32.0, la Marina de Port
+3.0,13.0,62.0,33.0, la Marina de Port
+3.0,13.0,62.0,34.0, la Marina de Port
+3.0,13.0,63.0,35.0, la Marina de Port
+3.0,13.0,63.0,36.0, la Marina de Port
+3.0,13.0,63.0,37.0, la Marina de Port
+3.0,13.0,64.0,38.0, la Marina de Port
+3.0,13.0,64.0,39.0, la Marina de Port
+3.0,13.0,62.0,211.0, la Marina de Port
+3.0,13.0,63.0,212.0, la Marina de Port
+3.0,13.0,63.0,213.0, la Marina de Port
+3.0,14.0,65.0,40.0, la Font de la Guatlla
+3.0,14.0,65.0,41.0, la Font de la Guatlla
+3.0,14.0,65.0,42.0, la Font de la Guatlla
+3.0,14.0,65.0,43.0, la Font de la Guatlla
+3.0,14.0,65.0,44.0, la Font de la Guatlla
+3.0,14.0,65.0,45.0, la Font de la Guatlla
+3.0,14.0,65.0,46.0, la Font de la Guatlla
+3.0,15.0,66.0,47.0, Hostafrancs
+3.0,15.0,66.0,48.0, Hostafrancs
+3.0,15.0,66.0,49.0, Hostafrancs
+3.0,15.0,66.0,50.0, Hostafrancs
+3.0,15.0,67.0,51.0, Hostafrancs
+3.0,15.0,67.0,52.0, Hostafrancs
+3.0,15.0,67.0,53.0, Hostafrancs
+3.0,15.0,67.0,54.0, Hostafrancs
+3.0,15.0,67.0,55.0, Hostafrancs
+3.0,15.0,67.0,56.0, Hostafrancs
+3.0,16.0,68.0,57.0, la Bordeta
+3.0,16.0,68.0,58.0, la Bordeta
+3.0,16.0,68.0,59.0, la Bordeta
+3.0,16.0,68.0,60.0, la Bordeta
+3.0,16.0,68.0,61.0, la Bordeta
+3.0,16.0,69.0,62.0, la Bordeta
+3.0,16.0,69.0,63.0, la Bordeta
+3.0,16.0,69.0,64.0, la Bordeta
+3.0,16.0,69.0,65.0, la Bordeta
+3.0,16.0,69.0,66.0, la Bordeta
+3.0,16.0,69.0,67.0, la Bordeta
+3.0,16.0,69.0,68.0, la Bordeta
+3.0,16.0,69.0,69.0, la Bordeta
+3.0,17.0,70.0,70.0, Sants - Badal
+3.0,17.0,70.0,71.0, Sants - Badal
+3.0,17.0,70.0,72.0, Sants - Badal
+3.0,17.0,70.0,73.0, Sants - Badal
+3.0,17.0,70.0,74.0, Sants - Badal
+3.0,17.0,70.0,75.0, Sants - Badal
+3.0,17.0,70.0,76.0, Sants - Badal
+3.0,17.0,70.0,77.0, Sants - Badal
+3.0,17.0,70.0,78.0, Sants - Badal
+3.0,17.0,70.0,79.0, Sants - Badal
+3.0,17.0,70.0,80.0, Sants - Badal
+3.0,17.0,71.0,81.0, Sants - Badal
+3.0,17.0,71.0,82.0, Sants - Badal
+3.0,17.0,71.0,83.0, Sants - Badal
+3.0,17.0,71.0,84.0, Sants - Badal
+3.0,17.0,71.0,85.0, Sants - Badal
+3.0,18.0,72.0,86.0, Sants
+3.0,18.0,72.0,87.0, Sants
+3.0,18.0,72.0,88.0, Sants
+3.0,18.0,72.0,89.0, Sants
+3.0,18.0,72.0,90.0, Sants
+3.0,18.0,72.0,91.0, Sants
+3.0,18.0,72.0,92.0, Sants
+3.0,18.0,72.0,93.0, Sants
+3.0,18.0,72.0,94.0, Sants
+3.0,18.0,73.0,95.0, Sants
+3.0,18.0,73.0,96.0, Sants
+3.0,18.0,73.0,97.0, Sants
+3.0,18.0,73.0,98.0, Sants
+3.0,18.0,73.0,99.0, Sants
+3.0,18.0,73.0,100.0, Sants
+3.0,18.0,74.0,101.0, Sants
+3.0,18.0,74.0,102.0, Sants
+3.0,18.0,74.0,103.0, Sants
+3.0,18.0,74.0,104.0, Sants
+3.0,18.0,75.0,105.0, Sants
+3.0,18.0,75.0,106.0, Sants
+3.0,18.0,76.0,107.0, Sants
+3.0,18.0,76.0,108.0, Sants
+3.0,18.0,76.0,109.0, Sants
+3.0,18.0,76.0,110.0, Sants
+3.0,18.0,76.0,111.0, Sants
+3.0,18.0,76.0,112.0, Sants
+3.0,18.0,76.0,113.0, Sants
+3.0,18.0,76.0,114.0, Sants
+4.0,19.0,77.0,1.0, les Corts
+4.0,19.0,77.0,2.0, les Corts
+4.0,19.0,77.0,3.0, les Corts
+4.0,19.0,77.0,4.0, les Corts
+4.0,19.0,77.0,5.0, les Corts
+4.0,19.0,77.0,6.0, les Corts
+4.0,19.0,77.0,7.0, les Corts
+4.0,19.0,77.0,8.0, les Corts
+4.0,19.0,77.0,9.0, les Corts
+4.0,19.0,78.0,10.0, les Corts
+4.0,19.0,78.0,11.0, les Corts
+4.0,19.0,78.0,12.0, les Corts
+4.0,19.0,78.0,13.0, les Corts
+4.0,19.0,78.0,14.0, les Corts
+4.0,19.0,78.0,15.0, les Corts
+4.0,19.0,78.0,16.0, les Corts
+4.0,19.0,79.0,17.0, les Corts
+4.0,19.0,79.0,18.0, les Corts
+4.0,19.0,79.0,19.0, les Corts
+4.0,19.0,79.0,20.0, les Corts
+4.0,19.0,79.0,21.0, les Corts
+4.0,19.0,80.0,22.0, les Corts
+4.0,19.0,81.0,23.0, les Corts
+4.0,19.0,81.0,24.0, les Corts
+4.0,19.0,82.0,25.0, les Corts
+4.0,19.0,82.0,26.0, les Corts
+4.0,19.0,82.0,27.0, les Corts
+4.0,19.0,83.0,28.0, les Corts
+4.0,19.0,83.0,29.0, les Corts
+4.0,19.0,83.0,30.0, les Corts
+4.0,19.0,84.0,31.0, les Corts
+4.0,19.0,84.0,32.0, les Corts
+4.0,19.0,84.0,33.0, les Corts
+4.0,19.0,84.0,34.0, les Corts
+4.0,19.0,84.0,35.0, les Corts
+4.0,20.0,85.0,36.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,37.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,38.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,39.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,40.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,41.0, la Maternitat i Sant Ramon
+4.0,20.0,85.0,42.0, la Maternitat i Sant Ramon
+4.0,20.0,86.0,43.0, la Maternitat i Sant Ramon
+4.0,20.0,86.0,44.0, la Maternitat i Sant Ramon
+4.0,20.0,86.0,45.0, la Maternitat i Sant Ramon
+4.0,20.0,86.0,46.0, la Maternitat i Sant Ramon
+4.0,20.0,86.0,47.0, la Maternitat i Sant Ramon
+4.0,20.0,87.0,48.0, la Maternitat i Sant Ramon
+4.0,20.0,87.0,49.0, la Maternitat i Sant Ramon
+4.0,20.0,87.0,84.0, la Maternitat i Sant Ramon
+4.0,21.0,88.0,50.0, Pedralbes
+4.0,21.0,88.0,51.0, Pedralbes
+4.0,21.0,88.0,52.0, Pedralbes
+4.0,21.0,89.0,53.0, Pedralbes
+4.0,21.0,89.0,54.0, Pedralbes
+4.0,21.0,90.0,55.0, Pedralbes
+4.0,21.0,90.0,56.0, Pedralbes
+5.0,22.0,91.0,1.0," Vallvidrera, el Tibidabo i les Planes"
+5.0,22.0,92.0,2.0," Vallvidrera, el Tibidabo i les Planes"
+5.0,22.0,92.0,3.0," Vallvidrera, el Tibidabo i les Planes"
+5.0,23.0,93.0,4.0, Sarrià
+5.0,23.0,93.0,5.0, Sarrià
+5.0,23.0,94.0,6.0, Sarrià
+5.0,23.0,95.0,7.0, Sarrià
+5.0,23.0,95.0,8.0, Sarrià
+5.0,23.0,95.0,9.0, Sarrià
+5.0,23.0,95.0,10.0, Sarrià
+5.0,23.0,95.0,11.0, Sarrià
+5.0,23.0,95.0,12.0, Sarrià
+5.0,23.0,95.0,13.0, Sarrià
+5.0,23.0,96.0,14.0, Sarrià
+5.0,23.0,96.0,15.0, Sarrià
+5.0,23.0,96.0,16.0, Sarrià
+5.0,23.0,96.0,17.0, Sarrià
+5.0,23.0,96.0,18.0, Sarrià
+5.0,23.0,96.0,19.0, Sarrià
+5.0,24.0,97.0,20.0, les Tres Torres
+5.0,24.0,97.0,21.0, les Tres Torres
+5.0,24.0,98.0,22.0, les Tres Torres
+5.0,24.0,98.0,23.0, les Tres Torres
+5.0,24.0,98.0,24.0, les Tres Torres
+5.0,24.0,99.0,25.0, les Tres Torres
+5.0,24.0,99.0,26.0, les Tres Torres
+5.0,24.0,99.0,27.0, les Tres Torres
+5.0,24.0,99.0,28.0, les Tres Torres
+5.0,24.0,99.0,29.0, les Tres Torres
+5.0,24.0,99.0,30.0, les Tres Torres
+5.0,25.0,100.0,31.0, Sant Gervasi - la Bonanova
+5.0,25.0,100.0,32.0, Sant Gervasi - la Bonanova
+5.0,25.0,101.0,33.0, Sant Gervasi - la Bonanova
+5.0,25.0,101.0,34.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,35.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,36.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,37.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,38.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,39.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,40.0, Sant Gervasi - la Bonanova
+5.0,25.0,102.0,41.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,42.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,43.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,44.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,45.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,46.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,47.0, Sant Gervasi - la Bonanova
+5.0,25.0,103.0,48.0, Sant Gervasi - la Bonanova
+5.0,26.0,104.0,49.0, Sant Gervasi - Galvany
+5.0,26.0,104.0,50.0, Sant Gervasi - Galvany
+5.0,26.0,104.0,51.0, Sant Gervasi - Galvany
+5.0,26.0,104.0,52.0, Sant Gervasi - Galvany
+5.0,26.0,105.0,53.0, Sant Gervasi - Galvany
+5.0,26.0,105.0,54.0, Sant Gervasi - Galvany
+5.0,26.0,105.0,55.0, Sant Gervasi - Galvany
+5.0,26.0,106.0,56.0, Sant Gervasi - Galvany
+5.0,26.0,106.0,57.0, Sant Gervasi - Galvany
+5.0,26.0,106.0,58.0, Sant Gervasi - Galvany
+5.0,26.0,106.0,59.0, Sant Gervasi - Galvany
+5.0,26.0,106.0,60.0, Sant Gervasi - Galvany
+5.0,26.0,107.0,61.0, Sant Gervasi - Galvany
+5.0,26.0,107.0,62.0, Sant Gervasi - Galvany
+5.0,26.0,107.0,63.0, Sant Gervasi - Galvany
+5.0,26.0,107.0,64.0, Sant Gervasi - Galvany
+5.0,26.0,107.0,65.0, Sant Gervasi - Galvany
+5.0,26.0,108.0,66.0, Sant Gervasi - Galvany
+5.0,26.0,108.0,67.0, Sant Gervasi - Galvany
+5.0,26.0,108.0,68.0, Sant Gervasi - Galvany
+5.0,26.0,108.0,69.0, Sant Gervasi - Galvany
+5.0,26.0,109.0,70.0, Sant Gervasi - Galvany
+5.0,26.0,109.0,71.0, Sant Gervasi - Galvany
+5.0,26.0,109.0,72.0, Sant Gervasi - Galvany
+5.0,26.0,109.0,73.0, Sant Gervasi - Galvany
+5.0,26.0,109.0,74.0, Sant Gervasi - Galvany
+5.0,26.0,110.0,75.0, Sant Gervasi - Galvany
+5.0,26.0,110.0,76.0, Sant Gervasi - Galvany
+5.0,26.0,110.0,77.0, Sant Gervasi - Galvany
+5.0,26.0,110.0,78.0, Sant Gervasi - Galvany
+5.0,26.0,110.0,79.0, Sant Gervasi - Galvany
+5.0,27.0,111.0,80.0, el Putxet i el Farró
+5.0,27.0,111.0,81.0, el Putxet i el Farró
+5.0,27.0,111.0,82.0, el Putxet i el Farró
+5.0,27.0,111.0,83.0, el Putxet i el Farró
+5.0,27.0,111.0,84.0, el Putxet i el Farró
+5.0,27.0,111.0,85.0, el Putxet i el Farró
+5.0,27.0,111.0,86.0, el Putxet i el Farró
+5.0,27.0,111.0,87.0, el Putxet i el Farró
+5.0,27.0,112.0,88.0, el Putxet i el Farró
+5.0,27.0,112.0,89.0, el Putxet i el Farró
+5.0,27.0,112.0,90.0, el Putxet i el Farró
+5.0,27.0,112.0,91.0, el Putxet i el Farró
+5.0,27.0,112.0,92.0, el Putxet i el Farró
+5.0,27.0,113.0,93.0, el Putxet i el Farró
+5.0,27.0,113.0,94.0, el Putxet i el Farró
+5.0,27.0,113.0,95.0, el Putxet i el Farró
+5.0,27.0,113.0,96.0, el Putxet i el Farró
+5.0,27.0,113.0,97.0, el Putxet i el Farró
+5.0,27.0,113.0,98.0, el Putxet i el Farró
+6.0,28.0,114.0,1.0, Vallcarca i els Penitents
+6.0,28.0,114.0,2.0, Vallcarca i els Penitents
+6.0,28.0,114.0,3.0, Vallcarca i els Penitents
+6.0,28.0,114.0,4.0, Vallcarca i els Penitents
+6.0,28.0,115.0,6.0, Vallcarca i els Penitents
+6.0,28.0,115.0,7.0, Vallcarca i els Penitents
+6.0,28.0,115.0,8.0, Vallcarca i els Penitents
+6.0,28.0,116.0,9.0, Vallcarca i els Penitents
+6.0,28.0,116.0,10.0, Vallcarca i els Penitents
+6.0,28.0,117.0,11.0, Vallcarca i els Penitents
+6.0,28.0,117.0,12.0, Vallcarca i els Penitents
+6.0,29.0,118.0,13.0, el Coll
+6.0,29.0,118.0,14.0, el Coll
+6.0,29.0,118.0,15.0, el Coll
+6.0,29.0,118.0,16.0, el Coll
+6.0,29.0,118.0,17.0, el Coll
+6.0,30.0,119.0,18.0, la Salut
+6.0,30.0,119.0,19.0, la Salut
+6.0,30.0,119.0,20.0, la Salut
+6.0,30.0,119.0,21.0, la Salut
+6.0,30.0,120.0,22.0, la Salut
+6.0,30.0,120.0,23.0, la Salut
+6.0,30.0,120.0,24.0, la Salut
+6.0,30.0,120.0,25.0, la Salut
+6.0,30.0,120.0,26.0, la Salut
+6.0,30.0,120.0,27.0, la Salut
+6.0,31.0,121.0,28.0, la Vila de Gràcia
+6.0,31.0,121.0,29.0, la Vila de Gràcia
+6.0,31.0,121.0,30.0, la Vila de Gràcia
+6.0,31.0,121.0,31.0, la Vila de Gràcia
+6.0,31.0,121.0,32.0, la Vila de Gràcia
+6.0,31.0,122.0,33.0, la Vila de Gràcia
+6.0,31.0,122.0,34.0, la Vila de Gràcia
+6.0,31.0,122.0,35.0, la Vila de Gràcia
+6.0,31.0,122.0,36.0, la Vila de Gràcia
+6.0,31.0,123.0,37.0, la Vila de Gràcia
+6.0,31.0,123.0,38.0, la Vila de Gràcia
+6.0,31.0,123.0,39.0, la Vila de Gràcia
+6.0,31.0,124.0,40.0, la Vila de Gràcia
+6.0,31.0,124.0,41.0, la Vila de Gràcia
+6.0,31.0,124.0,42.0, la Vila de Gràcia
+6.0,31.0,125.0,43.0, la Vila de Gràcia
+6.0,31.0,125.0,44.0, la Vila de Gràcia
+6.0,31.0,126.0,45.0, la Vila de Gràcia
+6.0,31.0,126.0,46.0, la Vila de Gràcia
+6.0,31.0,126.0,47.0, la Vila de Gràcia
+6.0,31.0,126.0,48.0, la Vila de Gràcia
+6.0,31.0,127.0,49.0, la Vila de Gràcia
+6.0,31.0,127.0,50.0, la Vila de Gràcia
+6.0,31.0,127.0,51.0, la Vila de Gràcia
+6.0,31.0,128.0,52.0, la Vila de Gràcia
+6.0,31.0,128.0,53.0, la Vila de Gràcia
+6.0,31.0,128.0,54.0, la Vila de Gràcia
+6.0,31.0,129.0,55.0, la Vila de Gràcia
+6.0,31.0,129.0,56.0, la Vila de Gràcia
+6.0,31.0,129.0,57.0, la Vila de Gràcia
+6.0,31.0,129.0,58.0, la Vila de Gràcia
+6.0,31.0,129.0,59.0, la Vila de Gràcia
+6.0,31.0,130.0,60.0, la Vila de Gràcia
+6.0,31.0,130.0,61.0, la Vila de Gràcia
+6.0,31.0,130.0,62.0, la Vila de Gràcia
+6.0,31.0,130.0,63.0, la Vila de Gràcia
+6.0,32.0,131.0,64.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,65.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,66.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,67.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,68.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,69.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,131.0,70.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,71.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,72.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,73.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,74.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,75.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,132.0,76.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,133.0,77.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,133.0,78.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,133.0,79.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,133.0,80.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,133.0,81.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,82.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,83.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,84.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,85.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,86.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,87.0, el Camp d'en Grassot i Gràcia Nova
+6.0,32.0,134.0,88.0, el Camp d'en Grassot i Gràcia Nova
+7.0,33.0,135.0,1.0, el Baix Guinardó
+7.0,33.0,135.0,2.0, el Baix Guinardó
+7.0,33.0,135.0,3.0, el Baix Guinardó
+7.0,33.0,135.0,4.0, el Baix Guinardó
+7.0,33.0,135.0,5.0, el Baix Guinardó
+7.0,33.0,135.0,6.0, el Baix Guinardó
+7.0,33.0,135.0,7.0, el Baix Guinardó
+7.0,33.0,135.0,8.0, el Baix Guinardó
+7.0,33.0,136.0,9.0, el Baix Guinardó
+7.0,33.0,136.0,10.0, el Baix Guinardó
+7.0,33.0,136.0,11.0, el Baix Guinardó
+7.0,33.0,136.0,12.0, el Baix Guinardó
+7.0,33.0,136.0,13.0, el Baix Guinardó
+7.0,33.0,137.0,14.0, el Baix Guinardó
+7.0,33.0,137.0,15.0, el Baix Guinardó
+7.0,33.0,137.0,16.0, el Baix Guinardó
+7.0,33.0,137.0,17.0, el Baix Guinardó
+7.0,33.0,137.0,18.0, el Baix Guinardó
+7.0,33.0,137.0,19.0, el Baix Guinardó
+7.0,34.0,138.0,20.0, Can Baró
+7.0,34.0,138.0,21.0, Can Baró
+7.0,34.0,138.0,22.0, Can Baró
+7.0,34.0,138.0,23.0, Can Baró
+7.0,34.0,138.0,24.0, Can Baró
+7.0,34.0,138.0,25.0, Can Baró
+7.0,34.0,138.0,26.0, Can Baró
+7.0,35.0,139.0,27.0, el Guinardó
+7.0,35.0,139.0,28.0, el Guinardó
+7.0,35.0,139.0,29.0, el Guinardó
+7.0,35.0,139.0,30.0, el Guinardó
+7.0,35.0,140.0,31.0, el Guinardó
+7.0,35.0,140.0,32.0, el Guinardó
+7.0,35.0,140.0,33.0, el Guinardó
+7.0,35.0,140.0,34.0, el Guinardó
+7.0,35.0,140.0,35.0, el Guinardó
+7.0,35.0,140.0,36.0, el Guinardó
+7.0,35.0,140.0,37.0, el Guinardó
+7.0,35.0,140.0,38.0, el Guinardó
+7.0,35.0,141.0,39.0, el Guinardó
+7.0,35.0,141.0,40.0, el Guinardó
+7.0,35.0,141.0,41.0, el Guinardó
+7.0,35.0,142.0,42.0, el Guinardó
+7.0,35.0,142.0,43.0, el Guinardó
+7.0,35.0,142.0,44.0, el Guinardó
+7.0,35.0,142.0,45.0, el Guinardó
+7.0,35.0,142.0,46.0, el Guinardó
+7.0,35.0,143.0,47.0, el Guinardó
+7.0,35.0,143.0,48.0, el Guinardó
+7.0,35.0,143.0,49.0, el Guinardó
+7.0,35.0,143.0,50.0, el Guinardó
+7.0,35.0,143.0,51.0, el Guinardó
+7.0,36.0,144.0,52.0, la Font d'en Fargues
+7.0,36.0,144.0,53.0, la Font d'en Fargues
+7.0,36.0,144.0,54.0, la Font d'en Fargues
+7.0,36.0,145.0,55.0, la Font d'en Fargues
+7.0,36.0,145.0,56.0, la Font d'en Fargues
+7.0,36.0,145.0,57.0, la Font d'en Fargues
+7.0,36.0,145.0,58.0, la Font d'en Fargues
+7.0,37.0,146.0,59.0, el Carmel
+7.0,37.0,146.0,60.0, el Carmel
+7.0,37.0,147.0,61.0, el Carmel
+7.0,37.0,147.0,62.0, el Carmel
+7.0,37.0,147.0,63.0, el Carmel
+7.0,37.0,147.0,64.0, el Carmel
+7.0,37.0,147.0,65.0, el Carmel
+7.0,37.0,147.0,66.0, el Carmel
+7.0,37.0,147.0,67.0, el Carmel
+7.0,37.0,147.0,68.0, el Carmel
+7.0,37.0,147.0,69.0, el Carmel
+7.0,37.0,147.0,70.0, el Carmel
+7.0,37.0,148.0,71.0, el Carmel
+7.0,37.0,148.0,72.0, el Carmel
+7.0,37.0,148.0,73.0, el Carmel
+7.0,37.0,148.0,74.0, el Carmel
+7.0,37.0,148.0,75.0, el Carmel
+7.0,37.0,148.0,76.0, el Carmel
+7.0,37.0,148.0,77.0, el Carmel
+7.0,37.0,148.0,78.0, el Carmel
+7.0,37.0,148.0,79.0, el Carmel
+7.0,37.0,148.0,80.0, el Carmel
+7.0,38.0,149.0,81.0, la Teixonera
+7.0,38.0,149.0,82.0, la Teixonera
+7.0,38.0,149.0,83.0, la Teixonera
+7.0,38.0,149.0,84.0, la Teixonera
+7.0,38.0,149.0,85.0, la Teixonera
+7.0,38.0,149.0,86.0, la Teixonera
+7.0,38.0,149.0,87.0, la Teixonera
+7.0,38.0,149.0,88.0, la Teixonera
+7.0,39.0,150.0,89.0, Sant Genís dels Agudells
+7.0,39.0,150.0,90.0, Sant Genís dels Agudells
+7.0,39.0,150.0,91.0, Sant Genís dels Agudells
+7.0,39.0,150.0,92.0, Sant Genís dels Agudells
+7.0,39.0,150.0,93.0, Sant Genís dels Agudells
+7.0,40.0,151.0,94.0, Montbau
+7.0,40.0,151.0,95.0, Montbau
+7.0,40.0,151.0,96.0, Montbau
+7.0,40.0,151.0,97.0, Montbau
+7.0,41.0,152.0,98.0, la Vall d'Hebron
+7.0,41.0,152.0,99.0, la Vall d'Hebron
+7.0,41.0,152.0,100.0, la Vall d'Hebron
+7.0,41.0,152.0,101.0, la Vall d'Hebron
+7.0,42.0,153.0,102.0, la Clota
+7.0,43.0,154.0,103.0, Horta
+7.0,43.0,154.0,104.0, Horta
+7.0,43.0,154.0,105.0, Horta
+7.0,43.0,154.0,106.0, Horta
+7.0,43.0,154.0,107.0, Horta
+7.0,43.0,154.0,108.0, Horta
+7.0,43.0,154.0,109.0, Horta
+7.0,43.0,154.0,110.0, Horta
+7.0,43.0,154.0,111.0, Horta
+7.0,43.0,155.0,112.0, Horta
+7.0,43.0,155.0,113.0, Horta
+7.0,43.0,155.0,114.0, Horta
+7.0,43.0,155.0,115.0, Horta
+7.0,43.0,155.0,116.0, Horta
+7.0,43.0,155.0,117.0, Horta
+7.0,43.0,155.0,118.0, Horta
+7.0,43.0,156.0,119.0, Horta
+7.0,43.0,156.0,120.0, Horta
+7.0,43.0,156.0,121.0, Horta
+7.0,43.0,156.0,122.0, Horta
+7.0,43.0,156.0,123.0, Horta
+8.0,44.0,157.0,1.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,2.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,3.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,4.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,5.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,6.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,7.0, Vilapicina i la Torre Llobeta
+8.0,44.0,157.0,8.0, Vilapicina i la Torre Llobeta
+8.0,44.0,158.0,9.0, Vilapicina i la Torre Llobeta
+8.0,44.0,159.0,10.0, Vilapicina i la Torre Llobeta
+8.0,44.0,159.0,11.0, Vilapicina i la Torre Llobeta
+8.0,44.0,159.0,12.0, Vilapicina i la Torre Llobeta
+8.0,44.0,159.0,13.0, Vilapicina i la Torre Llobeta
+8.0,44.0,159.0,14.0, Vilapicina i la Torre Llobeta
+8.0,44.0,160.0,15.0, Vilapicina i la Torre Llobeta
+8.0,44.0,160.0,16.0, Vilapicina i la Torre Llobeta
+8.0,44.0,160.0,17.0, Vilapicina i la Torre Llobeta
+8.0,44.0,160.0,18.0, Vilapicina i la Torre Llobeta
+8.0,44.0,160.0,19.0, Vilapicina i la Torre Llobeta
+8.0,45.0,161.0,20.0, Porta
+8.0,45.0,161.0,21.0, Porta
+8.0,45.0,161.0,22.0, Porta
+8.0,45.0,161.0,23.0, Porta
+8.0,45.0,161.0,24.0, Porta
+8.0,45.0,161.0,25.0, Porta
+8.0,45.0,161.0,26.0, Porta
+8.0,45.0,162.0,27.0, Porta
+8.0,45.0,162.0,28.0, Porta
+8.0,45.0,162.0,29.0, Porta
+8.0,45.0,162.0,30.0, Porta
+8.0,45.0,163.0,31.0, Porta
+8.0,45.0,163.0,32.0, Porta
+8.0,45.0,163.0,33.0, Porta
+8.0,45.0,163.0,34.0, Porta
+8.0,45.0,163.0,35.0, Porta
+8.0,45.0,163.0,36.0, Porta
+8.0,45.0,163.0,37.0, Porta
+8.0,46.0,164.0,38.0, el Turó de la Peira
+8.0,46.0,164.0,39.0, el Turó de la Peira
+8.0,46.0,164.0,40.0, el Turó de la Peira
+8.0,46.0,164.0,41.0, el Turó de la Peira
+8.0,46.0,164.0,42.0, el Turó de la Peira
+8.0,46.0,164.0,43.0, el Turó de la Peira
+8.0,46.0,165.0,44.0, el Turó de la Peira
+8.0,46.0,165.0,45.0, el Turó de la Peira
+8.0,46.0,165.0,46.0, el Turó de la Peira
+8.0,46.0,165.0,47.0, el Turó de la Peira
+8.0,47.0,166.0,48.0, Can Peguera
+8.0,47.0,166.0,49.0, Can Peguera
+8.0,48.0,167.0,50.0, la Guineueta
+8.0,48.0,167.0,51.0, la Guineueta
+8.0,48.0,167.0,52.0, la Guineueta
+8.0,48.0,167.0,53.0, la Guineueta
+8.0,48.0,167.0,54.0, la Guineueta
+8.0,48.0,167.0,55.0, la Guineueta
+8.0,48.0,168.0,56.0, la Guineueta
+8.0,48.0,168.0,57.0, la Guineueta
+8.0,48.0,168.0,58.0, la Guineueta
+8.0,48.0,168.0,59.0, la Guineueta
+8.0,48.0,167.0,215.0, la Guineueta
+8.0,49.0,169.0,60.0, Canyelles
+8.0,49.0,169.0,61.0, Canyelles
+8.0,49.0,169.0,62.0, Canyelles
+8.0,49.0,169.0,63.0, Canyelles
+8.0,49.0,169.0,64.0, Canyelles
+8.0,50.0,170.0,65.0, les Roquetes
+8.0,50.0,170.0,66.0, les Roquetes
+8.0,50.0,170.0,67.0, les Roquetes
+8.0,50.0,170.0,68.0, les Roquetes
+8.0,50.0,170.0,69.0, les Roquetes
+8.0,50.0,171.0,70.0, les Roquetes
+8.0,50.0,171.0,71.0, les Roquetes
+8.0,50.0,171.0,72.0, les Roquetes
+8.0,50.0,171.0,73.0, les Roquetes
+8.0,50.0,171.0,74.0, les Roquetes
+8.0,51.0,172.0,75.0, Verdun
+8.0,51.0,172.0,76.0, Verdun
+8.0,51.0,172.0,77.0, Verdun
+8.0,51.0,173.0,78.0, Verdun
+8.0,51.0,173.0,79.0, Verdun
+8.0,51.0,173.0,80.0, Verdun
+8.0,51.0,173.0,81.0, Verdun
+8.0,51.0,173.0,82.0, Verdun
+8.0,52.0,174.0,83.0, la Prosperitat
+8.0,52.0,174.0,84.0, la Prosperitat
+8.0,52.0,174.0,85.0, la Prosperitat
+8.0,52.0,174.0,86.0, la Prosperitat
+8.0,52.0,175.0,87.0, la Prosperitat
+8.0,52.0,175.0,88.0, la Prosperitat
+8.0,52.0,175.0,89.0, la Prosperitat
+8.0,52.0,175.0,90.0, la Prosperitat
+8.0,52.0,175.0,91.0, la Prosperitat
+8.0,52.0,176.0,92.0, la Prosperitat
+8.0,52.0,176.0,93.0, la Prosperitat
+8.0,52.0,176.0,94.0, la Prosperitat
+8.0,52.0,176.0,95.0, la Prosperitat
+8.0,52.0,177.0,96.0, la Prosperitat
+8.0,52.0,177.0,97.0, la Prosperitat
+8.0,52.0,177.0,98.0, la Prosperitat
+8.0,52.0,177.0,99.0, la Prosperitat
+8.0,52.0,177.0,100.0, la Prosperitat
+8.0,52.0,177.0,101.0, la Prosperitat
+8.0,52.0,177.0,102.0, la Prosperitat
+8.0,53.0,178.0,103.0, la Trinitat Nova
+8.0,53.0,178.0,104.0, la Trinitat Nova
+8.0,53.0,178.0,105.0, la Trinitat Nova
+8.0,53.0,178.0,106.0, la Trinitat Nova
+8.0,53.0,178.0,107.0, la Trinitat Nova
+8.0,54.0,179.0,108.0, Torre Baró
+8.0,54.0,179.0,109.0, Torre Baró
+8.0,55.0,180.0,110.0, Ciutat Meridiana
+8.0,55.0,180.0,111.0, Ciutat Meridiana
+8.0,55.0,180.0,112.0, Ciutat Meridiana
+8.0,55.0,180.0,113.0, Ciutat Meridiana
+8.0,55.0,180.0,114.0, Ciutat Meridiana
+8.0,55.0,180.0,115.0, Ciutat Meridiana
+8.0,56.0,181.0,116.0, Vallbona
+9.0,57.0,182.0,1.0, la Trinitat Vella
+9.0,57.0,182.0,2.0, la Trinitat Vella
+9.0,57.0,182.0,3.0, la Trinitat Vella
+9.0,57.0,182.0,4.0, la Trinitat Vella
+9.0,57.0,182.0,5.0, la Trinitat Vella
+9.0,58.0,183.0,6.0, Baró de Viver
+9.0,58.0,183.0,7.0, Baró de Viver
+9.0,59.0,184.0,8.0, el Bon Pastor
+9.0,59.0,184.0,9.0, el Bon Pastor
+9.0,59.0,185.0,10.0, el Bon Pastor
+9.0,59.0,185.0,11.0, el Bon Pastor
+9.0,59.0,185.0,13.0, el Bon Pastor
+9.0,59.0,185.0,14.0, el Bon Pastor
+9.0,59.0,185.0,15.0, el Bon Pastor
+9.0,60.0,186.0,16.0, Sant Andreu
+9.0,60.0,186.0,17.0, Sant Andreu
+9.0,60.0,186.0,18.0, Sant Andreu
+9.0,60.0,186.0,19.0, Sant Andreu
+9.0,60.0,186.0,20.0, Sant Andreu
+9.0,60.0,186.0,21.0, Sant Andreu
+9.0,60.0,186.0,22.0, Sant Andreu
+9.0,60.0,186.0,23.0, Sant Andreu
+9.0,60.0,187.0,24.0, Sant Andreu
+9.0,60.0,187.0,25.0, Sant Andreu
+9.0,60.0,187.0,26.0, Sant Andreu
+9.0,60.0,187.0,27.0, Sant Andreu
+9.0,60.0,188.0,28.0, Sant Andreu
+9.0,60.0,188.0,29.0, Sant Andreu
+9.0,60.0,188.0,30.0, Sant Andreu
+9.0,60.0,188.0,31.0, Sant Andreu
+9.0,60.0,189.0,32.0, Sant Andreu
+9.0,60.0,189.0,33.0, Sant Andreu
+9.0,60.0,190.0,34.0, Sant Andreu
+9.0,60.0,190.0,35.0, Sant Andreu
+9.0,60.0,190.0,36.0, Sant Andreu
+9.0,60.0,190.0,37.0, Sant Andreu
+9.0,60.0,190.0,38.0, Sant Andreu
+9.0,60.0,190.0,39.0, Sant Andreu
+9.0,60.0,191.0,40.0, Sant Andreu
+9.0,60.0,191.0,41.0, Sant Andreu
+9.0,60.0,191.0,42.0, Sant Andreu
+9.0,60.0,191.0,43.0, Sant Andreu
+9.0,60.0,191.0,44.0, Sant Andreu
+9.0,60.0,191.0,45.0, Sant Andreu
+9.0,60.0,192.0,46.0, Sant Andreu
+9.0,60.0,192.0,47.0, Sant Andreu
+9.0,60.0,192.0,48.0, Sant Andreu
+9.0,60.0,192.0,49.0, Sant Andreu
+9.0,60.0,192.0,50.0, Sant Andreu
+9.0,60.0,192.0,51.0, Sant Andreu
+9.0,60.0,192.0,52.0, Sant Andreu
+9.0,60.0,192.0,53.0, Sant Andreu
+9.0,60.0,192.0,54.0, Sant Andreu
+9.0,61.0,193.0,55.0, la Sagrera
+9.0,61.0,193.0,56.0, la Sagrera
+9.0,61.0,193.0,57.0, la Sagrera
+9.0,61.0,193.0,58.0, la Sagrera
+9.0,61.0,193.0,59.0, la Sagrera
+9.0,61.0,193.0,60.0, la Sagrera
+9.0,61.0,194.0,61.0, la Sagrera
+9.0,61.0,194.0,62.0, la Sagrera
+9.0,61.0,195.0,63.0, la Sagrera
+9.0,61.0,195.0,64.0, la Sagrera
+9.0,61.0,195.0,65.0, la Sagrera
+9.0,61.0,195.0,66.0, la Sagrera
+9.0,61.0,195.0,67.0, la Sagrera
+9.0,61.0,196.0,68.0, la Sagrera
+9.0,61.0,196.0,69.0, la Sagrera
+9.0,61.0,196.0,70.0, la Sagrera
+9.0,61.0,196.0,71.0, la Sagrera
+9.0,61.0,196.0,72.0, la Sagrera
+9.0,61.0,196.0,73.0, la Sagrera
+9.0,61.0,193.0,156.0, la Sagrera
+9.0,62.0,197.0,74.0, el Congrés i els Indians
+9.0,62.0,197.0,75.0, el Congrés i els Indians
+9.0,62.0,197.0,76.0, el Congrés i els Indians
+9.0,62.0,197.0,77.0, el Congrés i els Indians
+9.0,62.0,198.0,78.0, el Congrés i els Indians
+9.0,62.0,198.0,79.0, el Congrés i els Indians
+9.0,62.0,198.0,80.0, el Congrés i els Indians
+9.0,62.0,198.0,81.0, el Congrés i els Indians
+9.0,62.0,198.0,82.0, el Congrés i els Indians
+9.0,63.0,199.0,83.0, Navas
+9.0,63.0,199.0,84.0, Navas
+9.0,63.0,199.0,85.0, Navas
+9.0,63.0,199.0,86.0, Navas
+9.0,63.0,199.0,87.0, Navas
+9.0,63.0,199.0,88.0, Navas
+9.0,63.0,199.0,89.0, Navas
+9.0,63.0,200.0,90.0, Navas
+9.0,63.0,200.0,91.0, Navas
+9.0,63.0,200.0,92.0, Navas
+9.0,63.0,200.0,93.0, Navas
+9.0,63.0,200.0,94.0, Navas
+9.0,63.0,200.0,95.0, Navas
+10.0,64.0,201.0,1.0, el Camp de l'Arpa del Clot
+10.0,64.0,201.0,2.0, el Camp de l'Arpa del Clot
+10.0,64.0,201.0,3.0, el Camp de l'Arpa del Clot
+10.0,64.0,201.0,4.0, el Camp de l'Arpa del Clot
+10.0,64.0,201.0,5.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,6.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,7.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,8.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,9.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,10.0, el Camp de l'Arpa del Clot
+10.0,64.0,202.0,11.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,12.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,13.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,14.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,15.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,16.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,17.0, el Camp de l'Arpa del Clot
+10.0,64.0,203.0,18.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,19.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,20.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,21.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,22.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,23.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,24.0, el Camp de l'Arpa del Clot
+10.0,64.0,204.0,25.0, el Camp de l'Arpa del Clot
+10.0,65.0,205.0,26.0, el Clot
+10.0,65.0,205.0,27.0, el Clot
+10.0,65.0,205.0,28.0, el Clot
+10.0,65.0,205.0,29.0, el Clot
+10.0,65.0,205.0,30.0, el Clot
+10.0,65.0,205.0,31.0, el Clot
+10.0,65.0,206.0,32.0, el Clot
+10.0,65.0,206.0,33.0, el Clot
+10.0,65.0,206.0,34.0, el Clot
+10.0,65.0,206.0,35.0, el Clot
+10.0,65.0,206.0,36.0, el Clot
+10.0,65.0,206.0,37.0, el Clot
+10.0,65.0,207.0,38.0, el Clot
+10.0,65.0,207.0,39.0, el Clot
+10.0,65.0,207.0,40.0, el Clot
+10.0,65.0,207.0,41.0, el Clot
+10.0,65.0,206.0,234.0, el Clot
+10.0,66.0,208.0,42.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,208.0,43.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,44.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,45.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,46.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,47.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,48.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,49.0, el Parc i la Llacuna del Poblenou
+10.0,66.0,209.0,50.0, el Parc i la Llacuna del Poblenou
+10.0,67.0,210.0,51.0, la Vila Olímpica del Poblenou
+10.0,67.0,210.0,52.0, la Vila Olímpica del Poblenou
+10.0,67.0,210.0,53.0, la Vila Olímpica del Poblenou
+10.0,67.0,210.0,54.0, la Vila Olímpica del Poblenou
+10.0,67.0,211.0,55.0, la Vila Olímpica del Poblenou
+10.0,68.0,212.0,56.0, el Poblenou
+10.0,68.0,212.0,57.0, el Poblenou
+10.0,68.0,212.0,58.0, el Poblenou
+10.0,68.0,213.0,59.0, el Poblenou
+10.0,68.0,213.0,60.0, el Poblenou
+10.0,68.0,213.0,61.0, el Poblenou
+10.0,68.0,213.0,62.0, el Poblenou
+10.0,68.0,214.0,63.0, el Poblenou
+10.0,68.0,214.0,64.0, el Poblenou
+10.0,68.0,214.0,65.0, el Poblenou
+10.0,68.0,214.0,66.0, el Poblenou
+10.0,68.0,214.0,67.0, el Poblenou
+10.0,68.0,214.0,68.0, el Poblenou
+10.0,68.0,215.0,69.0, el Poblenou
+10.0,68.0,215.0,70.0, el Poblenou
+10.0,68.0,215.0,71.0, el Poblenou
+10.0,68.0,215.0,72.0, el Poblenou
+10.0,68.0,215.0,73.0, el Poblenou
+10.0,68.0,215.0,74.0, el Poblenou
+10.0,68.0,215.0,75.0, el Poblenou
+10.0,69.0,216.0,76.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,217.0,77.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,217.0,78.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,217.0,79.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,218.0,80.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,216.0,235.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,69.0,216.0,236.0, Diagonal Mar i el Front Marítim del Poblenou
+10.0,70.0,219.0,81.0, el Besòs i el Maresme
+10.0,70.0,219.0,82.0, el Besòs i el Maresme
+10.0,70.0,219.0,83.0, el Besòs i el Maresme
+10.0,70.0,219.0,84.0, el Besòs i el Maresme
+10.0,70.0,220.0,85.0, el Besòs i el Maresme
+10.0,70.0,220.0,86.0, el Besòs i el Maresme
+10.0,70.0,220.0,87.0, el Besòs i el Maresme
+10.0,70.0,220.0,88.0, el Besòs i el Maresme
+10.0,70.0,221.0,89.0, el Besòs i el Maresme
+10.0,70.0,222.0,90.0, el Besòs i el Maresme
+10.0,70.0,222.0,91.0, el Besòs i el Maresme
+10.0,70.0,222.0,92.0, el Besòs i el Maresme
+10.0,70.0,222.0,93.0, el Besòs i el Maresme
+10.0,71.0,223.0,94.0, Provençals del Poblenou
+10.0,71.0,223.0,95.0, Provençals del Poblenou
+10.0,71.0,224.0,96.0, Provençals del Poblenou
+10.0,71.0,224.0,97.0, Provençals del Poblenou
+10.0,71.0,224.0,98.0, Provençals del Poblenou
+10.0,71.0,224.0,99.0, Provençals del Poblenou
+10.0,71.0,224.0,100.0, Provençals del Poblenou
+10.0,71.0,225.0,101.0, Provençals del Poblenou
+10.0,71.0,225.0,102.0, Provençals del Poblenou
+10.0,71.0,225.0,103.0, Provençals del Poblenou
+10.0,71.0,225.0,104.0, Provençals del Poblenou
+10.0,71.0,225.0,237.0, Provençals del Poblenou
+10.0,72.0,226.0,105.0, Sant Martí de Provençals
+10.0,72.0,226.0,106.0, Sant Martí de Provençals
+10.0,72.0,226.0,107.0, Sant Martí de Provençals
+10.0,72.0,226.0,108.0, Sant Martí de Provençals
+10.0,72.0,226.0,109.0, Sant Martí de Provençals
+10.0,72.0,226.0,110.0, Sant Martí de Provençals
+10.0,72.0,227.0,111.0, Sant Martí de Provençals
+10.0,72.0,227.0,112.0, Sant Martí de Provençals
+10.0,72.0,227.0,113.0, Sant Martí de Provençals
+10.0,72.0,227.0,114.0, Sant Martí de Provençals
+10.0,72.0,228.0,115.0, Sant Martí de Provençals
+10.0,72.0,228.0,116.0, Sant Martí de Provençals
+10.0,72.0,228.0,117.0, Sant Martí de Provençals
+10.0,72.0,228.0,118.0, Sant Martí de Provençals
+10.0,72.0,228.0,119.0, Sant Martí de Provençals
+10.0,72.0,229.0,120.0, Sant Martí de Provençals
+10.0,72.0,229.0,121.0, Sant Martí de Provençals
+10.0,72.0,229.0,122.0, Sant Martí de Provençals
+10.0,73.0,230.0,123.0, la Verneda i la Pau
+10.0,73.0,230.0,124.0, la Verneda i la Pau
+10.0,73.0,230.0,125.0, la Verneda i la Pau
+10.0,73.0,230.0,126.0, la Verneda i la Pau
+10.0,73.0,230.0,127.0, la Verneda i la Pau
+10.0,73.0,230.0,128.0, la Verneda i la Pau
+10.0,73.0,230.0,129.0, la Verneda i la Pau
+10.0,73.0,231.0,130.0, la Verneda i la Pau
+10.0,73.0,231.0,131.0, la Verneda i la Pau
+10.0,73.0,231.0,132.0, la Verneda i la Pau
+10.0,73.0,231.0,133.0, la Verneda i la Pau
+10.0,73.0,231.0,134.0, la Verneda i la Pau
+10.0,73.0,231.0,135.0, la Verneda i la Pau
+10.0,73.0,232.0,136.0, la Verneda i la Pau
+10.0,73.0,232.0,137.0, la Verneda i la Pau
+10.0,73.0,232.0,138.0, la Verneda i la Pau
+10.0,73.0,232.0,139.0, la Verneda i la Pau
+10.0,73.0,233.0,140.0, la Verneda i la Pau
+10.0,73.0,233.0,141.0, la Verneda i la Pau
+10.0,73.0,233.0,142.0, la Verneda i la Pau
+10.0,73.0,233.0,143.0, la Verneda i la Pau
